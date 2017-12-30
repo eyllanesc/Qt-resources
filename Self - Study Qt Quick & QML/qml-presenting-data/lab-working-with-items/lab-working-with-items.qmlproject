@@ -1,0 +1,8 @@
+import QmlProject 1.1
+
+Project {
+    /* Include .qml and image files from current directory and subdirectories */
+    QmlFiles {
+        directory: "."
+    }
+}

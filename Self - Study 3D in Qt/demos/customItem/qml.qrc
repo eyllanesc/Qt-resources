@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/lady.png</file>
+        <file>vertex.glsl</file>
+        <file>fragment.glsl</file>
+        <file>TouchIndicator.qml</file>
+        <file>MainPage.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>ViewPage.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="exit">icons/application-exit.png</file>
+        <file alias="new">icons/document-new.png</file>
+        <file alias="open">icons/document-open.png</file>
+        <file alias="save-as">icons/document-save-as.png</file>
+        <file alias="save">icons/document-save.png</file>
+        <file alias="copy">icons/edit-copy.png</file>
+        <file alias="cut">icons/edit-cut.png</file>
+        <file alias="paste">icons/edit-paste.png</file>
+        <file alias="redo">icons/edit-redo.png</file>
+        <file alias="undo">icons/edit-undo.png</file>
+    </qresource>
+</RCC>

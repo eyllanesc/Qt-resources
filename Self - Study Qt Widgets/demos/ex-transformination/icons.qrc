@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/list-remove.png</file>
+        <file>images/configure.png</file>
+        <file>images/document-edit.png</file>
+        <file>images/list-add.png</file>
+        <file>images/apply.png</file>
+        <file>images/zoom-out-icon.png</file>
+        <file>images/zoom-In-icon.png</file>
+        <file>images/undo.png</file>
+        <file>images/translate.png</file>
+        <file>images/rotate.png</file>
+        <file>images/scale.png</file>
+        <file>images/transform.png</file>
+        <file>images/shear.png</file>
+        <file>images/original.ico</file>
+    </qresource>
+</RCC>

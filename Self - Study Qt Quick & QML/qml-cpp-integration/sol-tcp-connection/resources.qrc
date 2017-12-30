@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Client.qml</file>
+        <file>Server.qml</file>
+        <file>LineEdit.qml</file>
+        <file>Display.qml</file>
+        <file>ChatWindow.qml</file>
+        <file>images/textinput.png</file>
+        <file>images/textoutput.png</file>
+    </qresource>
+</RCC>

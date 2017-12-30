@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+  <file>ellipse7.qml</file>
+</qresource>
+</RCC>

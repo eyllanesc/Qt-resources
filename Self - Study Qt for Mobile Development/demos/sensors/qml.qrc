@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>NavigationPage.qml</file>
+        <file>PushButtonStyle.qml</file>
+        <file>Accelerometer.qml</file>
+        <file>images/arrow_left.png</file>
+        <file>images/arrow_right.png</file>
+        <file>images/camera.png</file>
+        <file>images/cloud_upload.png</file>
+        <file>images/minus.png</file>
+        <file>images/ball.png</file>
+        <file>AmbientLight.qml</file>
+        <file>Compass.qml</file>
+        <file>Gyroscope.qml</file>
+        <file>Rotation.qml</file>
+        <file>Tilt.qml</file>
+        <file>images/face-smile.png</file>
+    </qresource>
+</RCC>

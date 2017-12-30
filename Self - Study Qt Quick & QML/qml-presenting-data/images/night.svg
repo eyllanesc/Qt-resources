@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="502"
+   height="502"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="night.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/dboddie/Resources/Training/svn/training/trunk/research/QtQuick/examples/declarative-uis/models-views/images/star.png"
+   inkscape:export-xdpi="17.928288"
+   inkscape:export-ydpi="17.928288">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="330.93503"
+     inkscape:cy="247.99249"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1167"
+     inkscape:window-height="799"
+     inkscape:window-x="162"
+     inkscape:window-y="228">
+    <inkscape:grid
+       spacingy="10px"
+       spacingx="10px"
+       enabled="true"
+       visible="true"
+       id="grid2383"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3274">
+      <stop
+         style="stop-color:#cdd137;stop-opacity:1;"
+         offset="0"
+         id="stop3276" />
+      <stop
+         style="stop-color:#bdcfff;stop-opacity:1;"
+         offset="1"
+         id="stop3278" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3244">
+      <stop
+         style="stop-color:#213939;stop-opacity:1;"
+         offset="0"
+         id="stop3246" />
+      <stop
+         style="stop-color:#252e65;stop-opacity:1;"
+         offset="1"
+         id="stop3248" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3172">
+      <stop
+         id="stop3174"
+         offset="0"
+         style="stop-color:#acb7cb;stop-opacity:1;" />
+      <stop
+         id="stop3176"
+         offset="1"
+         style="stop-color:#acc8e9;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3157">
+      <stop
+         id="stop3159"
+         offset="0"
+         style="stop-color:#ffc4d6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.5"
+         id="stop3167" />
+      <stop
+         id="stop3161"
+         offset="1"
+         style="stop-color:#ffd3ff;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3244"
+       id="linearGradient3250"
+       x1="699"
+       y1="853.36218"
+       x2="699"
+       y2="353.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3274"
+       id="linearGradient3280"
+       x1="119"
+       y1="262"
+       x2="421"
+       y2="262"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-449,-351.36218)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="352.36218"
+       x="450"
+       height="500"
+       width="500"
+       id="rect3170"
+       style="opacity:1;fill:url(#linearGradient3250);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="17.928288"
+       inkscape:export-ydpi="17.928288"
+       inkscape:export-filename="/home/dboddie/Resources/Training/svn/training/trunk/research/QtQuick/examples/declarative-uis/models-views/images/star.png" />
+    <g
+       id="g3201"
+       transform="translate(330.93503,231.15037)"
+       inkscape:label="Gear6"
+       inkscape:export-filename="/home/dboddie/Resources/Training/svn/training/trunk/research/QtQuick/examples/declarative-uis/models-views/images/star.png"
+       inkscape:export-xdpi="17.928288"
+       inkscape:export-ydpi="17.928288" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient3280);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3272"
+       sodipodi:cx="270"
+       sodipodi:cy="262"
+       sodipodi:rx="150"
+       sodipodi:ry="150"
+       d="M 420,262 A 150,150 0 1 1 120,262 A 150,150 0 1 1 420,262 z"
+       transform="translate(429,341.36218)" />
+  </g>
+</svg>

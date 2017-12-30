@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Groland_map.png</file>
+    </qresource>
+</RCC>
